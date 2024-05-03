@@ -54,7 +54,7 @@
 				for (i = 0; i < x.length; i++) {
 				y = x[i];
 				if (y.nodeType == 1) {
-				d.write("<span class='title'>" + y.nodeName + ":" + y.firstChild.nodeValue + "</span><img src ='https://www.littledogsocialmedia.com/wp-content/uploads/2023/10/6.png' width='50'/><br />");
+				d.write("<span class='title'>" + y.nodeName + ":" + y.firstChild.nodeValue + "</span><img src ='https://e7.pngegg.com/pngimages/882/773/png-clipart-bulacan-state-university-bulsu-college-of-education-pulilan-technological-university-of-the-philippines-others-emblem-label.png' width='50'/><br />");
 				}
     }
     d.write("<br/>");
